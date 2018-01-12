@@ -1,0 +1,33 @@
+{
+  "name": "fabfit",
+  "authors": [
+    "Arnab Das"
+  ],
+  "description": "Web Application",
+  "main": "index.html",
+  "keywords": [
+    "fabfit"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.6.4",
+    "jquery": "^3.1.0",
+    "angular-material": "1.1.4",
+    "angular-ui-router": "^0.3.1",
+    "materialize": "0.97.7",
+    "satellizer": "0.15.5"
+  },
+  "resolutions": {
+    "angular": "1.5.8",
+    "angular-ui-router": "0.3.1"
+  }
+}
